@@ -50,7 +50,7 @@ Em transição de carreira da contabilidade para o desenvolvimento, sou apaixona
 # 📊 Estátisticas GitHub :
 
 ![](https://github-readme-stats.vercel.app/api?username=devpabloh&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=devpabloh&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devpabloh&theme=shadow_blue&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devpabloh&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
