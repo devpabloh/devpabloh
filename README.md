@@ -15,9 +15,6 @@ Em transição de carreira da contabilidade para o desenvolvimento, sou apaixona
 ## 🏆 Troféus GitHub
 ![](https://github-profile-trophy.vercel.app/?username=devpabloh&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Citação aleatória de desenvolvedores
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=devpabloh&icon=6&color=0)](https://visitcount.itsvg.in)
 
