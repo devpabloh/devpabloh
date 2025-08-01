@@ -1,5 +1,10 @@
 # 💫 Desenvolvedor Pablo H.
-  Em transição de carreira da contabilidade para o desenvolvimento, sou apaixonado por tecnologia e por resolver problemas através da programação. Com experiência em análise de dados e processos, estou focado em aprender e aplicar novas habilidades em desenvolvimento full-stack. Adoro estudar, colaborar em projetos e transformar ideias em soluções práticas. Sempre em busca de evolução, estou pronto para contribuir e crescer no mundo da tecnologia.<br><br>"Nunca é tarde para recomeçar — especialmente quando se faz o que se ama."
+  Vindo de uma transição de carreira da contabilidade, sou um Desenvolvedor Full Stack apaixonado por tecnologia e pela resolução de problemas através da programação. Minha experiência prévia em análise de dados e processos me proporciona uma visão única para criar soluções eficientes e práticas. 
+
+Meu foco é o desenvolvimento de aplicações web modernas, com experiência em projetos completos, desde a modelagem de banco de dados (PostgreSQL, MySQL) até a construção do front-end com ferramentas como React e TypeScript. Tenho conhecimento sólido em um ecossistema que inclui Node.js, Express, Python e Docker, sempre comprometido com as boas práticas de desenvolvimento e segurança. 
+
+Adoro estudar, colaborar em projetos e transformar ideias em soluções acessíveis e focadas na experiência do usuário. Sempre em busca de evolução, estou pronto para contribuir com novas equipes e continuar crescendo no mundo da tecnologia.
+<br><br>"Nunca é tarde para recomeçar — especialmente quando se faz o que se ama."
 
 
 ## 🌐 Socials / Redes Sociais:
