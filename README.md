@@ -12,7 +12,8 @@ Adoro estudar, colaborar em projetos e transformar ideias em soluções acessív
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-henrique-245709207/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devpabloh/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devpabloh@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(https://wa.me/5581986282235](https://wa.me/5581999523338?text=Ol%C3%A1!%20Queria%20falar%20com%20voc%C3%AA%20sobre%20um%20processo%20seletivo.)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999523338?text=Ol%C3%A1!%20Queria%20falar%20com%20voc%C3%AA%20sobre%20um%20processo%20seletivo.)
+
 <br/>
 # 💻 Tech Stack / Tecnologias: <br/>
 
