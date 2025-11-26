@@ -4,7 +4,7 @@
 Meu foco é o desenvolvimento de aplicações web modernas, com experiência em projetos completos, desde a modelagem de banco de dados (PostgreSQL, MySQL) até a construção do front-end com ferramentas como React, Next e TypeScript. Tenho conhecimento sólido em um ecossistema que inclui Node.js, Express, Python, Java e Docker, sempre comprometido com as boas práticas de desenvolvimento e segurança. 
 
 Adoro estudar, colaborar em projetos e transformar ideias em soluções acessíveis e focadas na experiência do usuário. Sempre em busca de evolução, estou pronto para contribuir com novas equipes e continuar crescendo no mundo da tecnologia.
-<br><br>"Nunca é tarde para recomeçar — especialmente quando se faz o que se ama."
+<br><br>"Better Than Yesterday."
 
 
 ## 🌐 Socials / Redes Sociais:
